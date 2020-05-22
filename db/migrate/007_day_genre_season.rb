@@ -1,7 +1,7 @@
 class AddDayGenreSeasonToShow < ActiveRecord::Migration[5.1]
 
-  def change 
+  def change
     add
-  end 
+  end
 
-end 
+end
